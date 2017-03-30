@@ -1,0 +1,28 @@
+{
+  "coffeeorders": [
+    {
+      "coffee": "test",
+      "emailAddress": "test@bignerdranch.com",
+      "size": "tall",
+      "flavor": "",
+      "strength": "30",
+      "id": "test@bignerdranch.com"
+    },
+    {
+      "coffee": "ambrosia",
+      "emailAddress": "ryan@bignerdranch.com",
+      "size": "coffee-zilla",
+      "flavor": "mocha",
+      "strength": "42",
+      "id": "ryan@bignerdranch.com"
+    },
+    {
+      "coffee": "mochachino",
+      "emailAddress": "penny@bignerdranch.com",
+      "size": "coffee-zilla",
+      "flavor": "caramel",
+      "strength": "4",
+      "id": "penny@bignerdranch.com"
+    }
+  ]
+}
